@@ -1,0 +1,2 @@
+sum(simulations collect each.nb_cycle_aller) / length(simulations),standard_deviation(simulations collect each.nb_cycle_aller),sum(mean_of(simulations,each.moy_cycle_aller)) / length(simulations),standard_deviation(simulations collect each.moy_cycle_aller),sum(simulations collect each.propor_utilisa_aller) / length(simulations),standard_deviation(simulations collect each.propor_utilisa_aller),simulation.d_eau / 1000
+46.12,3.1663227883461285,0.5656,0.4489988864128728,46.75292397660817,0.9982382912197106,20.0

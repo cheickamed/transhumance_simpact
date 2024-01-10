@@ -1,0 +1,2 @@
+sum(simulations collect each.nb_cycle_aller) / length(simulations),standard_deviation(simulations collect each.nb_cycle_aller),sum(simulations collect each.moy_cycle_aller) / length(simulations),standard_deviation(simulations collect each.moy_cycle_aller),simulation.d_veg / 1000,sum(simulations collect each.propor_utilisa_aller) / length(simulations),standard_deviation(simulations collect each.propor_utilisa_aller)
+51.46,3.257053883496556,31.72,1.249639948145065,25.0,40.27631578947369,2.8130831911724345

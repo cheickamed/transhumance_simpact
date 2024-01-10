@@ -1,0 +1,2 @@
+sum(simulations collect each.nb_cycle_retour) / length(simulations),standard_deviation(simulations collect each.nb_cycle_retour),sum(simulations collect each.moy_cycle_retour) / length(simulations),standard_deviation(simulations collect each.moy_cycle_retour),sum(simulations collect each.propor_utilisa_retour) / length(simulations),standard_deviation(simulations collect each.propor_utilisa_retour),simulation.dist_veto / 1000
+23.22,0.9442457307290306,15.76,0.4270831300812525,51.564327485380126,1.261298582855124,25.0
